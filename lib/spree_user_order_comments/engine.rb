@@ -1,4 +1,4 @@
-module ..::SpreeUserOrderComments
+module SpreeUserOrderComments
   class Engine < Rails::Engine
     engine_name 'spree_user_order_comments'
 
